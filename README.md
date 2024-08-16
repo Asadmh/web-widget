@@ -4,7 +4,7 @@ A custom web component called Info-widget built with Vanilla JavaScript and Webp
 ## Features
 + Embeddable web component
 + Dynamic color value via attribute
-+ Shadow DOM for styling encapsulation
++ Shadow DOM for JavaScript & styles encapsulation
 
 
 ## Usage
@@ -22,6 +22,11 @@ Use the custom element in your HTML file:
 + Install dependencies: `npm install`
 + Build the project: `npm run build`
 + Start the demo: `npm start`
+
+# Complete Tutorial
+The complete tutorial can be found at following links:
++ [Part 1](https://medium.com/@asadmpro/javascript-gems-a-journey-of-embeddable-web-component-with-vanilla-js-webpack-part-1-4bfc38f1b240)
++ [Part 2](https://medium.com/@asadmpro/javascript-gems-a-journey-of-embeddable-web-component-with-vanilla-js-webpack-part-2-aa0becb8986e)
 
 # Author
 Asad Mahmood
