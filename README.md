@@ -18,10 +18,10 @@ Use the custom element in your HTML file:
 ```
 
 ## Getting Started
-Clone the repository: `git clone https://github.com/Asadmh/web-widget.git`
-Install dependencies: `npm install`
-Build the project: `npm run build`
-Start the demo: `npm start`
++ Clone the repository: `git clone https://github.com/Asadmh/web-widget.git`
++ Install dependencies: `npm install`
++ Build the project: `npm run build`
++ Start the demo: `npm start`
 
 # Author
 Asad Mahmood
